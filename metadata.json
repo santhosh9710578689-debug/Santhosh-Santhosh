@@ -1,0 +1,6 @@
+{
+  "name": "Veni's Food Restaurants",
+  "description": "Official website of Veni's Food Restaurants in Tindivanam, Tamil Nadu. Explore our menu, call 6381714029, order on WhatsApp, and get directions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
